@@ -4,8 +4,9 @@
 To verify Apple's SKAdNetwork signature
 
 ### Download
-git clone git@github.com:Mintegral-official/ecdsa_wrapper.git
+> `git clone https://github.com/Mintegral-official/ecdsa_wrapper.git`
 
+> `go get github.com/Mintegral-official/ecdsa_wrapper`
 ### Maintainers
 @xiaofa.zhong 
 
